@@ -1,0 +1,16 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  mat-toolbar{
+    background: #3f51b5
+  }
+.bg-success{
+  background: #f7db05!important
+}
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+  
+  

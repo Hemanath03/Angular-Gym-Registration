@@ -1,0 +1,160 @@
+{
+  "userList": [
+    {
+      "firstname": "naruto",
+      "lastname": "kazi",
+      "mobile": 9025516159,
+      "email": "hem@gmail.com",
+      "height": 150,
+      "weight": 55,
+      "bmi": 24.444444444444443,
+      "bmiResult": "normal",
+      "gender": "Male",
+      "require": "yes",
+      "package": "Monthly",
+      "shift": [
+        "Morning",
+        "Noon"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-21T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstname": "hakkimaro",
+      "lastname": "hakkim",
+      "mobile": 9025591596,
+      "email": "nat@gmail.com",
+      "height": 150,
+      "weight": 60,
+      "bmi": 26.666666666666668,
+      "bmiResult": "normal",
+      "gender": "Female",
+      "require": "No",
+      "package": "Yearly",
+      "shift": [
+        "Noon",
+        "Evening"
+      ],
+      "answer": "No",
+      "date": "2023-03-29T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstname": "ninja",
+      "lastname": "hattori",
+      "mobile": 9025596159,
+      "email": "hem@gmail.com",
+      "height": 200,
+      "weight": 90,
+      "bmi": 22.5,
+      "bmiResult": "normal",
+      "gender": "Male",
+      "require": "yes",
+      "package": "Monthly",
+      "shift": [
+        "Morning"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-04T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstname": "naruto",
+      "lastname": "kazi",
+      "mobile": 9025516159,
+      "email": "hem@gmail.com",
+      "height": 150,
+      "weight": 55,
+      "bmi": 24.444444444444443,
+      "bmiResult": "normal",
+      "gender": "Female",
+      "require": "No",
+      "package": "Monthly",
+      "shift": [
+        "Morning",
+        "Noon"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-21T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "firstname": "nobita",
+      "lastname": "dore",
+      "mobile": 9025596159,
+      "email": "hem@gmail.com",
+      "height": 150,
+      "weight": 54,
+      "bmi": 24,
+      "bmiResult": "normal",
+      "gender": "Female",
+      "require": "yes",
+      "package": "Monthly",
+      "shift": [
+        "Morning"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-04T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "firstname": "Arun",
+      "lastname": "Kumar",
+      "mobile": 6545897562,
+      "email": "hem@ha.com",
+      "height": 120,
+      "weight": 66,
+      "bmi": 45.83333333333333,
+      "bmiResult": "overWeight",
+      "gender": "Male",
+      "require": "yes",
+      "package": "Monthly",
+      "shift": [
+        "Morning"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-04T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "firstname": "Hakkimaro",
+      "lastname": "Kazama",
+      "mobile": 9751195593,
+      "email": "hakkim@gmail.com",
+      "height": 180,
+      "weight": 66,
+      "bmi": 20.37037037037037,
+      "bmiResult": "normal",
+      "gender": "Male",
+      "require": "No",
+      "package": "Quaterly",
+      "shift": [
+        "Morning",
+        "Evening"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-18T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "firstname": "Uchifa",
+      "lastname": "Domo",
+      "mobile": 9758874423,
+      "email": "domo@gmail.com",
+      "height": 200,
+      "weight": 66,
+      "bmi": 16.5,
+      "bmiResult": "underWeight",
+      "gender": "Male",
+      "require": "yes",
+      "package": "Monthly",
+      "shift": [
+        "Morning"
+      ],
+      "answer": "Yes",
+      "date": "2023-03-07T18:30:00.000Z",
+      "id": 9
+    }
+  ]
+}
